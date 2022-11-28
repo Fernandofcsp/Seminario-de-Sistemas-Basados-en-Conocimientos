@@ -1,5 +1,5 @@
-Sandoval Padilla Fernando Cesar
-Saldivar Fonseca Francisco
+%Sandoval Padilla Fernando Cesar
+%Saldivar Fonseca Francisco
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 main:-proyecto_se,repeat, abolish(si_no/2),
     dynamic(si_no/2),
