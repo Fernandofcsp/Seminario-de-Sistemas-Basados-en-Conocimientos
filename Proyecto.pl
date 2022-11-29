@@ -9,7 +9,7 @@ main:-proyecto_se,repeat, abolish(si_no/2),
 
 proyecto_se:-nl,nl,
 write('Sistema Experto Para el Diagnostico de enfermedades'),nl,
-write('_________________________________________________________________________________________________________________________________'),nl.
+write('______________________________________________________________________'),nl.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %Guia para identificar la enfermedad (preguntas detonantes).
